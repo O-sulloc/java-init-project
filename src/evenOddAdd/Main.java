@@ -9,6 +9,8 @@ public class Main {
         int num = sc.nextInt();
         int num2 = sc.nextInt();
 
+
+
         if (num % 2 != 0) {
             System.out.print("홀수");
         } else {
